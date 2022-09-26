@@ -1,6 +1,7 @@
 # fred-registry-rhel-9
 Fred Registry RHEL 9 Packages
 
+https://copr-dist-git.fedorainfracloud.org/cgit/jtalir/fred/
 https://copr.fedorainfracloud.org/coprs/jtalir/fred/
 No packages for RHEL 9. Last version of FRED is 2.47.0 (2022-09-22).
 
